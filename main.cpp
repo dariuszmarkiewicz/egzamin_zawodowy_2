@@ -1,12 +1,7 @@
 /*
-
 Program wyswietla liczbe instancji,
 czyli tworzonych obiektow klasy Biblioteka
-
 */
-
-
-
 
 #include <iostream>
 
@@ -45,7 +40,6 @@ int main()
     Biblioteka czyt_6;
 
     cout << "Koniec tworzenia obiektow"  << endl;
-
 
     return 0;
 }
